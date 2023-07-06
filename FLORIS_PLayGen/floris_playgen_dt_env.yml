@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - pip
-  - csv
   - h5py
   - numpy
   - pandas
@@ -15,11 +14,6 @@ dependencies:
   - python=3.7
   - matplotlib
   - scipy 
-  - sklearn
+  - scikit-learn
   - joblib
   - altair
-  - pip:
-    - dm-sonnet==2.0.0
-    - tensorflow-probability
-    - graph_nets==1.1.0
-    - tensorflow==2.7.0
