@@ -1,6 +1,6 @@
 # windAI_bench
 
-A conda environment YML file has been provided for each dataset's notebooks has been provided for your convenience. To build this conda environment use the command
+A conda environment YML file has been provided for each dataset's notebooks for your convenience. To build this conda environment use the command:
 
 `conda env create -f XXX_env.yml`
 
