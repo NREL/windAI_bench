@@ -11,7 +11,7 @@ dependencies:
   - jupyterlab
   - ipykernel
   - notebook
-  - python=3.7
+  - python
   - matplotlib
   - scipy 
   - scikit-learn
