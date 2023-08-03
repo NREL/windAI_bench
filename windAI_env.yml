@@ -1,4 +1,4 @@
-name: floris_playgen_dt_env
+name: windAI_env
 channels:
   - conda-forge
   - defaults
