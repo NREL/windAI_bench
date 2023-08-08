@@ -17,3 +17,5 @@ dependencies:
   - scikit-learn
   - joblib
   - altair
+  - shap
+  - seaborn
